@@ -1,0 +1,6 @@
+{
+  "name": "NetLog Sentinel",
+  "description": "Unsupervised anomaly detection and AI-powered explanations for network syslog files.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
